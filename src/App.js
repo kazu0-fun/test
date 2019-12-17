@@ -24,6 +24,4 @@ function App() {
 }
 
 
-aa
-aa
 export default App;
